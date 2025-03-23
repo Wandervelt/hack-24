@@ -1,6 +1,6 @@
 **CV Hackathon Submission**
 
-This is our submission to the Aaltoes Computer Vision Hackathon. Our team is kaphKo (hack-15). Team participants include Haitham Al-Shami, Rohail Malik, and Hari Prasanth S.M. 
+This is our submission to the Aaltoes Computer Vision Hackathon. Our team is kaphKo (hack-24). Team participants include Haitham Al-Shami, Rohail Malik, and Hari Prasanth S.M. 
 
 **Overview**
 In this project, we tackle the challenge of segmenting AI regions in images. Our solution leverages modern computer vision techniques to preprocess the data, design and train a robust model, and evaluate its performance with clear visualizations and metrics.
