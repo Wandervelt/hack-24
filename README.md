@@ -3,10 +3,10 @@
 This is our submission to the Aaltoes Computer Vision Hackathon. Our team is kaphKo (hack-24). Team participants include Haitham Al-Shami, Rohail Malik, and Hari Prasanth S.M. 
 
 **Overview**
-In this project, we tackle the challenge of segmenting AI regions in images. Our solution leverages modern computer vision techniques to preprocess the data, design and train a robust model, and evaluate its performance with clear visualizations and metrics.
+In this project, we participated in a challenge to segment AI tampered regions in images. We attempted an interesting solution using knowledge distillation.
 
 **Approach**
-WThis approach employs a teacher-student architecture for knowledge distillation. The teacher model Takes both the potentially manipulated image AND its original version as input (6 channels total). This gives the teacher access to the true image to better learn manipulation patterns.
+This approach employs a teacher-student architecture for knowledge distillation. The teacher model Takes both the potentially manipulated image AND its original version as input (6 channels total). This gives the teacher access to the true image to better learn manipulation patterns.
 
 The student model Takes only the potentially manipulated image (3 channels). The student needs to identify manipulations without seeing the original. 
 
